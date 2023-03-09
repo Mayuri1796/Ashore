@@ -1,0 +1,240 @@
+@media only screen and (min-width: 992px) {
+  .events li {
+    padding-top: 19px;
+  }
+
+  .swim i {
+    width: 17%;
+    font-size: 50px;
+    padding-left: 0px;
+  }
+
+  .overlap-div {
+    top: 9%;
+    bottom: 0%;
+  }
+
+  .swim h2 {
+    width: 88%;
+    font-size: 25px;
+  }
+
+  .overlap-div {
+    width: 41%;
+  }
+
+  .events {
+    padding: 35px;
+  }
+
+  .contact {
+    padding: 19px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .navbar-expand-md .navbar-nav .nav-link {
+    padding: 30px 16px !important;
+  }
+
+  .swim h2 {
+    width: 100%;
+    font-size: 19px;
+  }
+
+  .swim p {
+    width: 80%;
+  }
+
+  .overlap-div {
+    width: 55%;
+    padding: 15px;
+    top: 11%;
+    bottom: 0%;
+  }
+
+  .button1 {
+    padding: 10px 45px;
+    margin-top: 0px;
+  }
+
+  .overlap-div h2 {
+    font-size: 20px;
+  }
+
+  .overlap-div p {
+    padding-top: 10px;
+  }
+
+  .events {
+    padding: 15px;
+  }
+
+  .reviews {
+    padding: 23px;
+  }
+
+  .contact {
+    padding: 18px;
+  }
+
+  .events-img img {
+    height: 335px;
+  }
+
+  .swim i {
+    width: 15%;
+    font-size: 40px;
+    padding-left: 12px;
+  }
+}
+
+@media only screen and (min-width: 479px) and (max-width: 767px) {
+  .swim-section {
+    margin-top: 0px;
+  }
+
+  .swim h2 {
+    width: 100%;
+    font-size: 30px;
+  }
+
+  .swim-section {
+    margin-top: 26px;
+  }
+
+  .swim i {
+    padding-left: 65px;
+  }
+
+  .swim p {
+    width: 78%;
+  }
+
+  .welcome-school img {
+    margin-top: 20px;
+  }
+
+  .overlap-div {
+    padding: 10px;
+    width: 100%;
+    position: relative;
+    top: 0%;
+    left: 0%;
+  }
+
+  .overlap-div h2 {
+    font-size: 35px;
+  }
+
+  .events {
+    padding: 30px;
+    margin: 20px 0px;
+  }
+
+  .reviews {
+    margin-top: 89px;
+  }
+
+  .contact {
+    margin-bottom: 20px;
+  }
+
+  .review-div {
+    padding-top: 0px;
+  }
+}
+
+@media only screen and (max-width: 478px) {
+  .swim-section {
+    margin-top: 0px;
+  }
+
+  .swim .col-sm-12 {
+    margin-top: 20px;
+  }
+
+  .welcome-school img {
+    margin-top: 20px;
+  }
+
+  .welcome-school h1 {
+    margin-top: 21px;
+  }
+
+  .events {
+    padding: 10px;
+    margin-bottom: 25px;
+  }
+
+  .review-div .ratings {
+    margin-bottom: 102px;
+  }
+
+  .swim i {
+    width: 18%;
+  }
+
+  .icon i {
+    font-size: 26px;
+  }
+
+  .icon {
+    padding: 5px 14px;
+  }
+
+  .number {
+    font-size: 23px;
+  }
+
+  .icon1 i {
+    font-size: 25px;
+  }
+
+  .icon2 i {
+    font-size: 25px;
+  }
+
+  .icon3 i {
+    font-size: 25px;
+  }
+
+  .icon2 {
+    padding: 8px 15px;
+  }
+
+  .overlap-div {
+    position: static;
+  }
+
+  .overlap-div {
+    width: 100%;
+    padding: 26px;
+    margin-bottom: 20px;
+  }
+
+  .overlap-div h2 {
+    font-size: 28px;
+  }
+
+  .swim h2 {
+    width: 100%;
+    font-size: 19px;
+  }
+
+  .events h2 {
+    padding-bottom: 0px;
+  }
+
+  .events li {
+    padding-top: 15px;
+  }
+
+  .contact {
+    padding: 31px;
+  }
+
+  .map {
+    margin-top: 20px;
+  }
+}

@@ -1,0 +1,283 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+body {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+  font-weight: 400;
+  color: #606060;
+}
+
+.logo-name {
+  font-size: 25px !important;
+  font-family: Myriad Pro;
+  font-weight: 600;
+  color: #4073de !important;
+}
+
+.navbar {
+  background: #fff;
+  padding: 0px !important;
+}
+
+.navbar-nav li a {
+  color: #000;
+  font-family: Myriad Pro;
+  font-size: 5.28 pt;
+  font-weight: 900;
+}
+
+.nav-item {
+  margin-right: 25px;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+  padding: 30px 20px !important;
+}
+
+.navbar-nav li a.active {
+  background: linear-gradient(#a15cf8, #685de9, #205ed4);
+  color: #fff !important;
+}
+
+.banner-img {
+  margin-bottom: 30px;
+}
+
+.navbar-toggler span.navbar-toggler-icon {
+  color: red !important;
+}
+
+.swim .swim-lessons {
+  background: linear-gradient(#ffae01, #ffa007, #ff8815);
+  padding: 20px;
+}
+
+.swim h2 {
+  font-size: 12.24 pt;
+  color: #fff;
+  font-weight: 600;
+  width: 70%;
+}
+
+.swim p {
+  color: #fff;
+  padding-top: 15px;
+  width: 80%;
+  display: inline-block;
+}
+
+.swim i {
+  width: 20%;
+  font-size: 50px;
+  padding-left: 15px;
+  color: #fff;
+}
+
+.swim .swim-lessons1 {
+  background: linear-gradient(#9d5cf7, #5e5de6, #1b5ed3);
+  padding: 20px;
+}
+
+.swim .swim-lessons2 {
+  background: linear-gradient(#ff2f52, #ff286d, #ff1d93);
+  padding: 20px;
+}
+
+.swim-lessons2 h2 {
+  width: 80%;
+}
+
+.swim .swim-lessons3 {
+  background: linear-gradient(#fc15e7, #d91ae4, #b81ee1);
+  padding: 20px;
+}
+
+.swim-section {
+  margin-top: -126px;
+}
+
+.welcome-school h1 {
+  font-weight: 900;
+  font-family: Myriad Pro;
+  color: #000;
+  padding-bottom: 20px;
+}
+
+.welcome-school p {
+  font-size: 5.52 pt;
+}
+
+.button {
+  background: linear-gradient(to right, #ff8604, #ff562d, #ff314e);
+  padding: 15px 45px;
+  border-radius: 0;
+  border: 0;
+  outline: none;
+  color: #fff;
+}
+
+.overlap-div {
+  width: 30%;
+  background: linear-gradient(#e6304e, #e22067, #ef057e);
+  padding: 40px;
+}
+
+.banner-img {
+  background-position: 50% 50%;
+}
+
+.overlap-section {
+  position: relative;
+}
+
+.overlap-div {
+  position: absolute;
+  top: 6%;
+  left: 6%;
+  bottom: 0%;
+  opacity: 0.8;
+}
+
+.overlap-div h2 {
+  color: #fff;
+}
+
+.overlap-div p {
+  color: #fff;
+  padding-top: 10px;
+}
+
+.button1 {
+  background: #fff;
+  padding: 15px 45px;
+  border-radius: 0;
+  border: 0;
+  outline: none;
+  color: #000;
+  margin-top: 30px;
+}
+
+.events {
+  background: linear-gradient(#ffb616, #ffa40f, #ff8001);
+  padding: 69px;
+}
+
+.events h2 {
+  font-family: Myriad Pro;
+  font-weight: 800;
+  /* padding-bottom: 20px; */
+}
+
+.events li {
+  padding-top: 19px;
+}
+
+.reviews {
+  background: #f3f3f3;
+  text-align: center;
+  padding: 30px;
+}
+
+.reviews h5 {
+  color: #ff6300;
+}
+
+.reviews img {
+  border-radius: 50%;
+  margin-top: -100px;
+  margin-bottom: 20px;
+  width: 100px;
+}
+
+.review-div {
+  padding-top: 140px;
+}
+
+.contact {
+  background: linear-gradient(#0098e0, #008bd4, #007cc7);
+  padding: 20px;
+}
+
+.contact h2 {
+  color: #fff;
+}
+
+.contact p {
+  color: #fff;
+}
+
+.icon {
+  background: #fff;
+  border-radius: 50px;
+  padding: 5px 17px;
+  display: inline-block;
+}
+
+.icon i {
+  font-size: 40px;
+  color: #0080cb;
+}
+
+.icon1 {
+  background: #fff;
+  border-radius: 50px;
+  padding: 8px 11px;
+  display: inline-block;
+}
+
+.icon1 i {
+  font-size: 40px;
+  color: #0080cb;
+}
+
+.icon2 {
+  background: #fff;
+  border-radius: 50px;
+  padding: 8px 17px;
+  display: inline-block;
+}
+
+.icon2 i {
+  font-size: 40px;
+  color: #0080cb;
+}
+
+.icon3 {
+  background: #fff;
+  border-radius: 50px;
+  padding: 8px 10px;
+  display: inline-block;
+}
+
+.icon3 i {
+  font-size: 40px;
+  color: #0080cb;
+}
+
+.number {
+  display: inline-block;
+  color: #fff;
+  font-size: 30px;
+}
